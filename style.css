@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+    margin-top:22px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 23px;
+    border: 5px solid #243e46;
+    font-size:36px;
+    height: 65px;
+    width: 458px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 44px;
+    background: #a08fa0;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 4px solid #13692b;
+    background-color: #ffff99;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
